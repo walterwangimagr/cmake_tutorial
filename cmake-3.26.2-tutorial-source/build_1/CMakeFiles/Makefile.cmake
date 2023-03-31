@@ -25,6 +25,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/walter/.local/lib/python3.8/site-packages/cmake/data/share/cmake-3.26/Modules/Platform/Linux.cmake"
   "/home/walter/.local/lib/python3.8/site-packages/cmake/data/share/cmake-3.26/Modules/Platform/UnixPaths.cmake"
   "/home/walter/git/cmake_tutorial/cmake-3.26.2-tutorial-source/Step1/CMakeLists.txt"
+  "/home/walter/git/cmake_tutorial/cmake-3.26.2-tutorial-source/Step1/TutorialConfig.h.in"
   "CMakeFiles/3.26.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.26.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.26.1/CMakeSystem.cmake"
@@ -38,6 +39,7 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
+  "TutorialConfig.h"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 

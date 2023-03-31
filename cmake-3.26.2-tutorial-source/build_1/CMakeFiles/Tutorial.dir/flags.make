@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/walter/git/cmake_tutorial/cmake-3.26.2-tutorial-source/build_1
 
 CXX_FLAGS = -std=gnu++11
 
