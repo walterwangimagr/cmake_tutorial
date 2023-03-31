@@ -3,6 +3,7 @@
 // #include <cstdlib> // TODO 5: Remove this line
 #include <iostream>
 #include <string>
+#include "TutorialConfig.h"
 
 // TODO 11: Include TutorialConfig.h
 
@@ -24,5 +25,8 @@ int main(int argc, char* argv[])
   const double outputValue = sqrt(inputValue);
   std::cout << "The square root of " << inputValue << " is " << outputValue
             << std::endl;
+
+  std::cout << Tutorial_VERSION_MAJOR << std::endl;
+  std::cout << Tutorial_VERSION_MINOR << std::endl;
   return 0;
 }
