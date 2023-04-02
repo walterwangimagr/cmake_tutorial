@@ -4,7 +4,9 @@
 #include <string>
 
 #include "TutorialConfig.h"
-#include "MathFunctions.h"
+#ifdef USE_MYMATH
+# include "MathFunctions.h"
+#endif
 
 // TODO 11: Only include MathFunctions if USE_MYMATH is defined
 
@@ -28,7 +30,12 @@ int main(int argc, char* argv[])
   // TODO 6: Replace sqrt with mysqrt
 
   // calculate square root
-  const double outputValue = mysqrt(inputValue);
+  #ifdef USE_MYMATH
+    const double outputValue = mysqrt(inputValue);
+  #else
+    const double outputValue = sqrt(inputValue);
+  #endif
+
   std::cout << "The square root of " << inputValue << " is " << outputValue
             << std::endl;
   return 0;
