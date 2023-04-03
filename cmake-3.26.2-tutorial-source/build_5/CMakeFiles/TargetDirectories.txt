@@ -1,4 +1,5 @@
 /home/walter/git/cmake_tutorial/cmake-3.26.2-tutorial-source/build_5/CMakeFiles/Tutorial.dir
+/home/walter/git/cmake_tutorial/cmake-3.26.2-tutorial-source/build_5/CMakeFiles/test.dir
 /home/walter/git/cmake_tutorial/cmake-3.26.2-tutorial-source/build_5/CMakeFiles/edit_cache.dir
 /home/walter/git/cmake_tutorial/cmake-3.26.2-tutorial-source/build_5/CMakeFiles/rebuild_cache.dir
 /home/walter/git/cmake_tutorial/cmake-3.26.2-tutorial-source/build_5/CMakeFiles/list_install_components.dir
@@ -6,6 +7,7 @@
 /home/walter/git/cmake_tutorial/cmake-3.26.2-tutorial-source/build_5/CMakeFiles/install/local.dir
 /home/walter/git/cmake_tutorial/cmake-3.26.2-tutorial-source/build_5/CMakeFiles/install/strip.dir
 /home/walter/git/cmake_tutorial/cmake-3.26.2-tutorial-source/build_5/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/walter/git/cmake_tutorial/cmake-3.26.2-tutorial-source/build_5/MathFunctions/CMakeFiles/test.dir
 /home/walter/git/cmake_tutorial/cmake-3.26.2-tutorial-source/build_5/MathFunctions/CMakeFiles/edit_cache.dir
 /home/walter/git/cmake_tutorial/cmake-3.26.2-tutorial-source/build_5/MathFunctions/CMakeFiles/rebuild_cache.dir
 /home/walter/git/cmake_tutorial/cmake-3.26.2-tutorial-source/build_5/MathFunctions/CMakeFiles/list_install_components.dir
