@@ -41,6 +41,8 @@ target_include_directories(Tutorial PUBLIC
 
 # TODO 3: Install Tutorial in the bin directory
 # Hint: Use the TARGETS and DESTINATION parameters
+install(TARGETS Tutorial DESTINATION bin)
+install(FILES ${PROJECT_BINARY_DIR}/TutorialConfig.h DESTINATION include)
 
 # TODO 4: Install TutorialConfig.h to the include directory
 # Hint: Use the FILES and DESTINATION parameters

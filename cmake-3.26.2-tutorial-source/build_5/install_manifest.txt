@@ -1,0 +1,4 @@
+/home/walter/cpp_install_project/lib/libMathFunctions.a
+/home/walter/cpp_install_project/include/MathFunctions.h
+/home/walter/cpp_install_project/bin/Tutorial
+/home/walter/cpp_install_project/include/TutorialConfig.h

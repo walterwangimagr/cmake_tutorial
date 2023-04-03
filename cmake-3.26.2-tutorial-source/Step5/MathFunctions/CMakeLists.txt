@@ -16,3 +16,6 @@ target_link_libraries(MathFunctions tutorial_compiler_flags)
 
 # TODO 2: Install the library headers to the include folder.
 # Hint: Use the FILES and DESTINATION parameters
+set(installable_libs MathFunctions tutorial_compiler_flags)
+install(TARGETS ${installable_libs} DESTINATION lib)
+install(FILES MathFunctions.h DESTINATION include)
