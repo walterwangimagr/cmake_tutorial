@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20230403-0253-Experimental"
+	Name="walter"
+	Generator="ctest-3.26.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="walter"
+	OSRelease="5.15.0-67-generic"
+	OSVersion="#74~20.04.1-Ubuntu SMP Wed Feb 22 14:52:34 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15876"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2800"
+	>
+	<Build>
+		<StartDateTime>Apr 03 14:53 NZST</StartDateTime>
+		<StartBuildTime>1680490423</StartBuildTime>
+		<BuildCommand>/home/walter/.local/lib/python3.8/site-packages/cmake/data/bin/cmake --build . --config "Release"</BuildCommand>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Apr 03 14:53 NZST</EndDateTime>
+		<EndBuildTime>1680490423</EndBuildTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Build>
+</Site>
